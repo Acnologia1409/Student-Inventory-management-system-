@@ -1,0 +1,5 @@
+INV101,Dell Latitude Laptop,Laptops,850.0,5,4,0,0,Dell,Latitude,1.8,True,SN-DELL-8821,12
+INV102,Lenovo ThinkPad,Laptops,1200.0,2,1,0,1,Lenovo,ThinkPad,1.5,True,SN-LENO-4921,24
+INV103,Physics Lab Kit,Equipment,45.0,10,10,1,0,ScienceCo,PhyKit,3.0,False,,0
+INV104,Calculus Textbook,Textbooks,110.0,15,14,1,1,Pearson,Calculus 9th,1.2,False,,0
+INV105,Violin,Music,400.0,3,0,2,0,Stradivarius,V100,2.2,False,,0
